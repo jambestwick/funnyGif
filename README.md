@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 * 📫 How to reach me: ...
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
--->* ![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
-
+* [![Follow on Twitter](https://img.shields.io/twitter/follow/jambestwick.svg)](https://twitter.com/intent/follow?screen_name=jambestwick)
 * 🔭 I’m currently working on Ravenclaw
 * 🌱 I’m currently learning front & back end's black magic
 * 📫 How to reach me: [blog](https://blog.qianx1.xyz)
@@ -28,8 +27,4 @@ The winds and waves are always on the side of the ablest navigators.   - Edward 
 
 <!-- Randomly taken from quotations.md -->
 
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
-</p>
-
-![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jambestwick/funnyGif/blob/main/github-contribution-grid-snake.svg)
